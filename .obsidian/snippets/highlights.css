@@ -1,0 +1,14 @@
+/* Highlight EDITOR */
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: transparent;
+    color: #f6d68a;
+}
+
+
+/* Highlight PREVIEW */
+
+.markdown-preview-view mark {
+    background-color: transparent;
+    color: #f6d68a;
+}

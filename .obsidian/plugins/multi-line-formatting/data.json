@@ -1,0 +1,84 @@
+{
+  "styleArray": [
+    {
+      "id": "214206944",
+      "nickname": "Hair",
+      "leftStyle": "<span style=\"color:#f6d68a\">",
+      "rightStyle": "</span>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "638768070",
+      "nickname": "Eye",
+      "leftStyle": "<span style=\"color:#4bb6a5\">",
+      "rightStyle": "</span>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "591001832",
+      "nickname": "Cloth",
+      "leftStyle": "<span style=\"color:#a2bae6\">",
+      "rightStyle": "</span>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "853653105",
+      "nickname": "Link to Note",
+      "leftStyle": "<a data-href=\"標題\" href=\"標題\" class=\"internal-link\" target=\"\\_blank\">",
+      "rightStyle": "</a>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "239320023",
+      "nickname": "Table Break",
+      "leftStyle": "<br>",
+      "rightStyle": "",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "760741436",
+      "nickname": "Law Name",
+      "leftStyle": "<span class=\"right-align\" style=\"font-family:DFKai-sb;\">──",
+      "rightStyle": "</span>.",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "410654429",
+      "nickname": "Law Content",
+      "leftStyle": "<span style=\"font-family:DFKai-sb;\">",
+      "rightStyle": "</span>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "524095526",
+      "nickname": "Supplement",
+      "leftStyle": "<div style=\"background-color:#161b55;color:#f6d68a;font-weight:bold;\">",
+      "rightStyle": "</div>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    }
+  ]
+}

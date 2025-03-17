@@ -1,0 +1,186 @@
+{
+  "workspaces": {
+    "A": {
+      "main": {
+        "id": "a8861793e995ae45",
+        "type": "split",
+        "children": [
+          {
+            "id": "004c4dd3732c42d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1434a173873881dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "學習困難與補救策略_.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "630dcd844ef8c42c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "音韻覺知教學（Phonological Awareness）.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "18987770816f29c8",
+        "type": "split",
+        "children": [
+          {
+            "id": "cd74083e9a57edc0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ee30d34fdd41630",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "e3dc61fd5181af27",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "學習困難",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "816e27dcf00bd357",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "62ef3a27709f2a20",
+        "type": "split",
+        "children": [
+          {
+            "id": "811e089bc2dcbcd4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "83cc08d20e28d823",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "音韻覺知教學（Phonological Awareness）.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "099f579188fda13b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "音韻覺知教學（Phonological Awareness）.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "25babbbf0bf72f71",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "5b8033ff5ceee8d3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "音韻覺知教學（Phonological Awareness）.md"
+                  }
+                }
+              },
+              {
+                "id": "ebf00667f1af8f22",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ff32002166a9c135",
+                "type": "leaf",
+                "state": {
+                  "type": "side-panel-control-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作區配置": false,
+          "switcher:開啟快速切換": false,
+          "graph:查看關聯圖": false,
+          "templates:插入模板": false,
+          "command-palette:開啟命令面板": false,
+          "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "630dcd844ef8c42c"
+    }
+  },
+  "active": "A"
+}

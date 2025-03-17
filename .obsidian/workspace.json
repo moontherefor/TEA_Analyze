@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "ad75750c46dc4c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d43051f7ea729a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d621b3cbbe4b8e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考題/教檢/108-2身障課程教學.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "108-2身障課程教學"
+            }
+          },
+          {
+            "id": "5c7c5f0bda57b54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "感覺差異.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "感覺差異"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71d4052c76402a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2d4feb4bf6e428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1532af1e266f9b68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "b808bcc4b61d44be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "83bf9cf6ad06beea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "debe2489a70ec284",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66cfd55b04ce2ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30870870d658225c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考題/教檢/教檢考題整理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "教檢考題整理 的反向連結"
+            }
+          },
+          {
+            "id": "789b2091697ab83b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考題/教檢/教檢考題整理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "教檢考題整理 的對外連結"
+            }
+          },
+          {
+            "id": "54c76c958631e469",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "9aeb0907e4bcd5ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考題/教檢/教檢考題整理.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "教檢考題整理 的大綱"
+            }
+          },
+          {
+            "id": "80578eccfbb10e99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作區配置": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "7d621b3cbbe4b8e2",
+  "lastOpenFiles": [
+    "考題/教檢/教檢考題整理.md",
+    "學習策略.md",
+    "身體病弱.md",
+    "感覺差異.md",
+    "ADHD教學.md",
+    "癲癇.md",
+    "類化.md",
+    "語言發展策略.md",
+    "感覺防禦.md",
+    "自我教導策略.md",
+    "心智圖.md",
+    "口吃.md",
+    "永恆主義.md",
+    "提示系統.md",
+    "提示.md",
+    "威爾巴格治療.md",
+    "自閉症.md",
+    "回應式互動.md",
+    "回應式互動溝通互動原則.md",
+    "回應式互動溝通互動技巧.md",
+    "法規/身心障礙及資賦優異學生鑑定辦法修正條文對照表.md",
+    "法規/身心障礙學生考試服務辦法.md",
+    "法規/特殊教育法實施細則.md",
+    "法規/身心障礙及資賦優異學生鑑定辦法修正總說明（113.04.29 修正）.md",
+    "法規/特殊教育學生及幼兒鑑定辦法.md",
+    "法規/特殊教育學生及幼兒申訴服務辦法.md",
+    "法規/desktop.ini",
+    "法規",
+    "考題/教檢/110教育理念/desktop.ini",
+    "考題/教檢/108-2身障課程教學/desktop.ini",
+    "考題/教檢/108-2學習者/desktop.ini",
+    "考題/教檢/108-1身障課程教學/desktop.ini",
+    "考題/教檢/110教育理念",
+    "考題/教檢/desktop.ini",
+    "考題/教檢/108-2身障課程教學",
+    "考題/教檢/108-2學習者"
+  ]
+}

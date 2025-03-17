@@ -1,0 +1,11 @@
+{
+  "accentColor": "#93a0c2",
+  "baseFontSize": 18,
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "align",
+    "highlights",
+    "callout"
+  ]
+}

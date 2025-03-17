@@ -1,0 +1,7 @@
+.right-align {
+	display: block;
+	text-align: right;
+	margin: -1.5em;
+	position: relative;
+	right:2em;
+}
