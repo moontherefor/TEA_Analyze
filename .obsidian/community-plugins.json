@@ -6,5 +6,6 @@
   "workspaces-plus",
   "obsidian-hotkeys-for-templates",
   "dataview",
-  "sample-plugin"
+  "sample-plugin",
+  "tea_analyze-plugin"
 ]

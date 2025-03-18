@@ -1,0 +1,11 @@
+{
+	"id": "tea_analyze-plugin",
+	"name": "TEA_Analyze Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Plugin for TEA_Analyze.",
+	"author": "moontherefor",
+	"authorUrl": "https://github.com/moontherefor",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
